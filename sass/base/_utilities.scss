@@ -10,6 +10,8 @@
   @include box-shadow($shadow);
   @include box-sizing(border-box);
   border: $border;
+  display: block;
+  margin: 0 auto;
 }
 
 @mixin selection($bg, $color: inherit, $text-shadow: none){

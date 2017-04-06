@@ -187,12 +187,25 @@ body > footer {
     text-align: center;
 }
 
-#site_title {
-    font-size: 2.5em !important;
-    font-weight: 300;
+h1#site_title {
+    font-size: 1.9em !important;
+    font-weight: 400;
     margin: 0;
-    padding: 15% 5%;
-    a { text-shadow: 4px 1px 2px #999; }
+    line-height: 1;
+
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border: none;
+
+    a {
+        span {
+            display: block;
+            font-size: 2.95em;
+            text-transform: uppercase;
+        }
+    }
+
 }
 
 #site_subtitle {
