@@ -5,7 +5,7 @@ function allcommands {
   echo ''
   echo -e '\033[32m./run post "Заголовок" \033[37;2m написание нового поста\033[0m'
   echo ''
-  echo -e '\033[32m./run update           \033[37;2m обновить стили шаблона\033[0m'
+  echo -e '\033[32m./run upd              \033[37;2m обновить стили шаблона\033[0m'
   echo ''
   echo -e '\033[32m./run deploy           \033[37;2m опубликовать текущую версию блога\033[0m'
   echo ''
@@ -46,7 +46,7 @@ else
   case $1 in
     post) subl $(rake new_post["$2"] | cut -c 20-);;
     deploy) rake generate && rake deploy;;
-    update) rake install[oct2];;
+    upd) rake install[oct2] && rake generate;;
     help) helpcmd;;
     *) unknowncmd $1;;
   esac
