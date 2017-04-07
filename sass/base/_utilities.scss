@@ -5,11 +5,8 @@
   height: image-height($img);
 }
 
-@mixin shadow-box($border: #fff .5em solid, $shadow: rgba(#000, .15) 0 1px 4px, $border-radius: .3em) {
-  @include border-radius($border-radius);
-  @include box-shadow($shadow);
+@mixin shadow-box() {
   @include box-sizing(border-box);
-  border: $border;
   display: block;
   margin: 0 auto;
 }
