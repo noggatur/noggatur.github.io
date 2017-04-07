@@ -1,7 +1,9 @@
 # Мой блог
 
-Поддерживает посты разметкой [Markdown](http://daringfireball.net/projects/markdown/) с возможностью вставки формул [LaTeX](https://ru.wikipedia.org/wiki/LaTeX).
-Также есть возможность добавлять [специальные плагины-вставки на Ruby](http://octopress.org/docs/plugins/).
+Это рабочий репозиторий моего блога, доступного по адресу https://noggatur.github.io/.
+
+Поддерживаются посты с разметкой [Markdown](http://daringfireball.net/projects/markdown/) и возможностью вставки формул [LaTeX](https://ru.wikipedia.org/wiki/LaTeX).
+Также в постах можно пользоваться [специальными вставками на Ruby](http://octopress.org/docs/plugins/).
 
 ## Установка
 
