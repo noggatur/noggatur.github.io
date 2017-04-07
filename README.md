@@ -16,6 +16,9 @@ rake install
 rake setup_github_pages
   # потом ввести вот это
   git@github.com:noggatur/noggatur.github.io.git
+
+# для того, чтобы можно было спокойно пользоваться "git push"
+git push --set-upstream origin source
 ```
 
 ## Доступные команды
