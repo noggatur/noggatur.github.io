@@ -33,7 +33,7 @@ categories:
 
 ![Первая подписанная гитара](https://pp.userapi.com/c5202/u11722643/96676000/y_0af9d95b.jpg)
 
-<iframe width="640" height="350" src="//vk.com/video_ext.php?oid=-1082&id=160488552&hash=70f692938f4d4b65" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="//vk.com/video_ext.php?oid=-1082&id=160488552&hash=70f692938f4d4b65" frameborder="0" allowfullscreen></iframe>
 На 32-й секунде видео — я с гитарой.
 
 Я был под таким сильным впечатлением от концерта и от того, что кроме меня есть ещё целая орда фанатов творчества Scorpions!
