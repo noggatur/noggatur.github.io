@@ -4,7 +4,7 @@
   <title><![CDATA[Блог Игоря Полякова]]></title>
   <link href="http://noggatur.github.io/atom.xml" rel="self"/>
   <link href="http://noggatur.github.io/"/>
-  <updated>2017-11-29T02:12:06+03:00</updated>
+  <updated>2017-11-29T02:21:06+03:00</updated>
   <id>http://noggatur.github.io/</id>
   <author>
     <name><![CDATA[iGor Polyakov]]></name>
@@ -12,83 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Машинное обучение]]></title>
-    <link href="http://noggatur.github.io/blog/2017/04/17/mashinnoie-obuchieniie-shad/"/>
-    <updated>2017-04-17T12:50:26+03:00</updated>
-    <id>http://noggatur.github.io/blog/2017/04/17/mashinnoie-obuchieniie-shad</id>
-    <content type="html"><![CDATA[<p>Конспект лекций <a href="https://yandexdataschool.ru/">«Школы Анализа Данных</a>» Яндекса.</p>
-
-<h2 id="section">Введение (основные понятия и обозначения)</h2>
-
-<h3 id="section-1">Задача обучения по прецедентам</h3>
-
-<p>Машинное обучение — наука о том, как проводить функции через точки (развитие идей метода наименьших квадратов и линейной аппроксимации полученных данных).</p>
-
-<!--more-->
-
-<p><strong>Дано</strong>:<br />
-$X$ — множество объектов;<br />
-$Y$ — множество ответов;<br />
-$y: X \rightarrow Y$ — неизвестная зависимость (target function);<br />
-${x_1, \dots, x_l} \in X$ — обучающая выборка (training sample);<br />
-$y_i = y(x_i), i = 1, \dots, l$ — известные ответы.</p>
-
-<p><strong>Найти</strong> (одна из основных задач естествознания):<br />
-$a: X \rightarrow Y$ — алгоритм, решающий функцию (decision function) $a$, приближающую $y$ на всём множестве $X$.</p>
-
-<p>Весь курс машинного обучение — это конкретизация:</p>
-
-<ul>
-  <li>как задаются объекты и какими могут быть ответы;</li>
-  <li>как строится функция $a$;</li>
-  <li>что значит «$a$ приближает $y$ на всём $X$»</li>
-</ul>
-
-<h3 id="section-2">Объекты и признаки</h3>
-
-<p>Объектами может быть всё, что угодно (веб-страницы, люди, фильмы, …).</p>
-
-<p>$f_j : X \rightarrow D_j, j = 1, …, n$ — признаки (features), характеризующие объект.</p>
-
-<p>Типы признаков:</p>
-
-<ul>
-  <li>$D_j = {0, 1}$ — бинарный признак $f_j$ (ответы: “да” или “нет”).</li>
-  <li>
-    <table>
-      <tbody>
-        <tr>
-          <td>$</td>
-          <td>D_j</td>
-          <td>&lt; \infty$</td>
-        </tr>
-      </tbody>
-    </table>
-  </li>
-  <li>
-    <table>
-      <tbody>
-        <tr>
-          <td>$</td>
-          <td>D_j</td>
-          <td>&lt; \infty, D_j$ упорядочено</td>
-        </tr>
-      </tbody>
-    </table>
-  </li>
-  <li>$D_j = \mathcal{R}$</li>
-</ul>
-
-<h2 id="section-3">Источники</h2>
-
-<ul>
-  <li><a href="http://rutracker.org/forum/tracker.php?nm=%D1%88%D0%BA%D0%BE%D0%BB%D0%B0%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85">Лекции ШАД</a></li>
-  <li><a href="https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century">О профессии Data Scientist</a></li>
-</ul>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Завёл свой собственный блог!]]></title>
