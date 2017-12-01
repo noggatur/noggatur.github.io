@@ -5,7 +5,7 @@ footer: false
 ---
 
 - [МУЛЬТИТРАН](http://www.multitran.ru/) — адекватный словарь;
-- [PRINT BAR](https://printbar.ru/) — печать классных футболок;
+- [VSEMAYKIRU](https://www.vsemayki.ru/) и [PRINT BAR](https://printbar.ru/) — печать классных футболок;
 - [Красный карандаш](http://krasniykarandash.ru/) — крутой московский магазин для художникое;
 - [ЕАПТЕКА](http://www.eapteka.ru/) – аптека с низкими ценами и бесплатной доставкой;
 - [FITMAG.RU](http://fitmag.ru) — магазин спортивного питания;
