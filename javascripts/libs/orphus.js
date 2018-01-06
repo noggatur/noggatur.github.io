@@ -1,5 +1,5 @@
 (function(){var _1="5.01";
-var _2="!onggtaruy@.aur";
+var _2="noggatur@ya.ru";
 var hq="//orphus.ru/ru/";
 var _4="<!!!>";
 var _5="<!!!>";
