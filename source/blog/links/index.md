@@ -9,7 +9,7 @@ footer: false
   + [Открытая клиника](https://open-clinics.ru/) — специализируются в проблемах с опорно-двигательным аппаратом;
   + [ЕАПТЕКА](http://www.eapteka.ru/) – аптека с низкими ценами и бесплатной доставкой;
   + [Электронная регистратура](https://uslugi.mosreg.ru/zdrav/) — онлайн-запись ко врачу;
-- Доставка готовой еды
+- Доставка здоровой еды
   + [GrowFood](https://growfood.pro/msk/);
   + [Level Kitchen](https://levelkitchen.com/);
   + [Muscle Factory Kitchen](http://mfkitchen.ru/);
@@ -25,7 +25,16 @@ footer: false
 - Печать классных футболок
   + [VSEMAYKIRU](https://www.vsemayki.ru/);
   + [PRINT BAR](https://printbar.ru/);
+- [Darkside](http://www.darkside.ru/show/) — агрегатор концертов;
 - [МУЛЬТИТРАН](http://www.multitran.ru/) — адекватный словарь;
 - [ЦИАН](https://www.cian.ru/) – съём жилья;
 - [Shopfans](https://shopfans.ru/) – доставка покупок из США;
-- [Красный карандаш](http://krasniykarandash.ru/) — крутой московский магазин для художникое;
+- [Красный карандаш](http://krasniykarandash.ru/) — крутой московский магазин для художников;
+- https://puffberi.ru/ — магазин пуфиков;
+- Укорачивание ссылок
+  + https://bitly.com/
+  + https://goo.gl/
+  + https://www.clck.ru/
+  + http://www.gmy.su/
+- Благотворительные фонды
+  + Детские сердца
